@@ -1,7 +1,7 @@
 # 03_03 Run scripts from the pipeline
 [![Build Status](http://ec2-63-177-125-140.eu-central-1.compute.amazonaws.com/buildStatus/icon?job=fabonacci-github)](http://ec2-63-177-125-140.eu-central-1.compute.amazonaws.com/job/fabonacci-github/)
 
-Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
+Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile
 
 ## Pipeline steps for calling scripts
 
